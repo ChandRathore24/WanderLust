@@ -1,0 +1,7 @@
+express
+mongoose
+ejs
+ejs-mate
+method-override
+joi
+dotenv
